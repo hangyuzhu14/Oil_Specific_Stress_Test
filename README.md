@@ -27,8 +27,8 @@ As not all products are traded in USD, we introduce FX rate to standardize the c
 6. Sort returns and display results.
 7. Upload results to the database.
 
-   
-
+# Jobs & Pipelines
+This notebook is scheduled to be run daily on 8:30 AM (GMT), and relavent output will be sent to the desk through email. 
 
 
 
