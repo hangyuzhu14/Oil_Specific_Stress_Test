@@ -28,7 +28,7 @@ As not all products are traded in USD, we introduce FX rate to standardize the c
 7. Upload results to the database.
 
 ## Jobs & Pipelines
-This notebook is scheduled to be run daily on 8:30 AM (GMT) using the last business exposure data, and relavent output will be sent to the desk through email. For manual execution, users may select the Date parameter through the widget built in 
+This notebook is scheduled to be run daily on 8:30 AM (GMT) using the last business exposure data, and relavent output will be sent to the desk through email. For manual execution, users may select the Date parameter through the widget built in cob_widget.py. This module sets the Date as the last business day by default and restricts users to select working days in the past only. 
 
 
 
