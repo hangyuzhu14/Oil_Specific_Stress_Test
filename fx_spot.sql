@@ -1,0 +1,1 @@
+SELECT * FROM LiD.Business."Team_AP_Trading_Desk"."AP_Generic".FX."Spot_FX_Table" WHERE TRADING_DATE = '{cob}'
